@@ -1,7 +1,7 @@
 # Modern-Tribe
 Freelance projects from Modern Tribe
-Please enter the description of the first project here.
-The following are proposed prelim design and scope:
+Description of the first project here.
+Define here the following proposed prelim design and scope for:
     Time constraints for design
     Design integrity 
     etc.
